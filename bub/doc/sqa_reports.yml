@@ -1,0 +1,6 @@
+Applications:
+    bub:
+        app_types:
+            - bubApp
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
