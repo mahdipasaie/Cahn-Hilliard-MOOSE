@@ -1,1 +1,1 @@
-[![Watch the demo](Images/thumbnail.png)](Images/11.mp4)
+![Simulation GIF](1.gif)
